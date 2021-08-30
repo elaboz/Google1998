@@ -10,7 +10,6 @@ body{
     color: black;
     margin-left: 5%;
     margin-right: 5%;
-    /* width: 90%; */
 }
 table{
     width: 90%;
@@ -23,7 +22,6 @@ table{
     text-align: center;
 }
 #tow{
-    /* width: 37%; */
     background-color: #70CCC2;
     color: black;
     text-align: center;
